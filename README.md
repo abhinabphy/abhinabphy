@@ -1,61 +1,74 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Abhinab Das</h1>
-<p align="center">
-  <strong>Engineering Physics undergrad @ IIT Guwahati</strong> • Blockchain & Security Researcher • Smart Contract Auditor
-</p>
-
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥-SecurityResearch-critical?style=for-the-badge&logo=nordvpn" alt="Security Research">
-  <img src="https://img.shields.io/badge/📚-Blockchain-blue?style=for-the-badge&logo=ethereum" alt="Blockchain Development">
-  <img src="https://img.shields.io/badge/🛠️-OpenSource-ff69b4?style=for-the-badge" alt="Open Source">
-  <a href="https://github.com/abhinabphy?tab=followers"><img src="https://img.shields.io/github/followers/abhinabphy.svg?style=social" alt="GitHub Followers"></a>
-</p>
+<h1 align="center">👋 Hello, I'm Abhinab Das</h1>
+<p align="center"><em>Engineering Physics B.Tech @ IIT Guwahati • Security Researcher • Blockchain & DeFi Protocol Bug Hunter</em></p>
 
 ---
 
-## 🔍 About Me
+## 🔬 Technical Focus
 
-| Role | Description |
-|------|-------------|
-| 🎓 Student | B.Tech, Engineering Physics, IIT Guwahati |
-| 🧠 Focus | **Security research**, smart contract audits, DeFi & adversarial protocols |
-| 🧑‍💻 Skills | Solidity, Rust, Move, Cadence, Bitcoin Script, Python, C/C++ |
-| 🌐 Chains | Avalanche, Polygon, Aptos, Solana, Flow, Sui |
-| 🏆 Achievements | Winner – CoinDCX Unfold ‘24, Hack4Bengal ‘23, Aptos Winter School ‘24 |
-
----
-
-## 🚀 Core Projects
-
-- **Proof-of-Attendance (CryptoMilan)**: multi-chain geofenced event minting with AR/AI integration.
-- **CritiQ**: Avalanche-based decentralized review platform with AI authenticity checks.
-- **DecenBuild**: Social dApp on Polygon/Lens with Push protocol.
-- **SwapStorm**: DeFi arbitrage bot with theorem-proving & stakeholder incentive model.
+- **✅ Active Security Researcher**  
+  - Conducting **fuzzing**, **symbolic analysis**, and **formal verification** of EVM, Move, and Cadence smart contracts  
+  - Exploring **adversarial DeFi attack surfaces**, flash‑loan exploits, and cross‑chain vulnerability chains  
+- **🧩 Blockchain Architect & Auditor**  
+  - Dive deep into **Solidity**, **Rust**, **Move**, **Cadence**, and **Bitcoin Script**  
+  - Perform **manual code review**, static analysis, and runtime instrumentation  
+- **🛠️ Tooling & Automation**  
+  - Build **audit pipelines** integrating Slither, Manticore, Mythril, Echidna  
+  - Develop **CI/CD security checks**, custom scripting for **on-chain behavior tracing**
 
 ---
 
-## 📈 GitHub Metrics
+## ⚙️ Core Projects & Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinabphy&show_icons=true&theme=radical)
-
----
-
-## 🎯 Goals
-
-I'm currently spearheading security audits and research in:
-- Smart contract vulnerabilities & adversarial testing
-- Privacy, cryptography & formal verification
-- Scalable decentralized systems & protocol design
+| Project | Tech Stack | Security Focus |
+|--------|------------|----------------|
+| **CryptoMilan** | Solidity, Chainlink, AR integration | Explored reentrancy/Oracle manipulations |
+| **CritiQ** | Avalanche smart contracts + AI | Evaluated access control and data integrity |
+| **DecenBuild** | Polygon, Lens, Push protocol | Analyzed token‑authorization logic |
+| **SwapStorm** | Theorem-prover backed DeFi bot | Designed strategy‑proofness & logical correctness |
+| **Security Toolkit** | Python, Slither, Echidna | Built custom CLI chain‑scanner for bug classification
 
 ---
 
-## 📫 Let’s Connect
+## 🔧 Research & Audit Workflow
 
-- ✉️ Email: [d.abhinab@iitg.ac.in](mailto:d.abhinab@iitg.ac.in) | [abhinabiitg@gmail.com](mailto:abhinabiitg@gmail.com)
-- 🌍 LinkedIn: [abhinab-das-246728270](https://www.linkedin.com/in/abhinab-das-246728270/)
-- 🔗 Website: [abhinab.dev](https://abhinab.dev)
+1. **Threat Modeling**  
+   - Map all entry points: contract, oracle, governance, bridge
+2. **Static Analysis**  
+   - Run Slither/Mythril → triage critical findings manually
+3. **Dynamic Testing**  
+   - Use Echidna/EVM fuzzers ⇒ simulate flash‑loan, rapid sequence attacks
+4. **Symbolic Execution**  
+   - Manticore + custom triggers to expose edge‑case logic bugs
+5. **Formal Specification**  
+   - Define invariants/specs → leverage SMT solver for safety properties
+6. **Proof‑of‑Exploit Reports**  
+   - Auto‑generate minimal testcases with diagnostics and remediation suggestions
 
 ---
 
-**👋 Open to collaboration:** Security audits, DeFi research, blockchain tooling & protocol review.
+## 🏆 Notable Highlights
+
+- 🥇 Winner, **CoinDCX Unfold '24** (2 tracks): discovered vulnerability in AR‑mint flow  
+- 🥇 Winner, **Hack4Bengal '23**: built zero‑knowledge review validator  
+- 🥇 Aptos Winter School ‘24: Awarded **Best Use of Move** for Chaintune project  
+- 🏅 Top‑3, **Navishkar ’24**: Govt‑backed innovation challenge for protocol design  
+
+---
+
+## 🎯 Current Research Goals
+
+- Develop automated **cross‑chain exploit detection tools**  
+- Publish white‑papers on **Move/Cadence smart contract verification**  
+- Collaborate on open‑source **fuzzing and adversarial SDK/toolchains**
+
+---
+
+## 📫 Connect / Collaborate
+
+- 📧 [d.abhinab@iitg.ac.in](mailto:d.abhinab@iitg.ac.in) | [abhinabiitg@gmail.com](mailto:abhinabiitg@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abhinab-das-246728270/) | 🌐 [Personal Website](https://abhinab.dev)  
+
+---
+
+**🔎 Currently open for:** audit collaborations, DeFi security research, tooling contributions, protocol design reviews.
