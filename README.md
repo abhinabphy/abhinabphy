@@ -5,11 +5,11 @@
 
 ## 🔍 Focus Areas
 
-- **Security Research (EVM, Move, Cadence)**  
+- **Security Research (EVM, Move)**  
   Fuzzing, symbolic execution, formal verification, and adversarial analysis of smart contracts and DeFi protocols.
 
 - **Blockchain Development & Auditing**  
-  Manual and automated audits of Solidity, Move, Rust, Cadence, and Bitcoin Script smart contracts. Experience with cross-chain bridges, oracle systems, and token authorization models.
+  Manual and automated audits of Solidity, Move, Rust smart contracts. Experience with cross-chain bridges, oracle systems, and token authorization models.
 
 - **Automation & Tooling**  
   Building audit pipelines integrating Slither, Mythril, Echidna, Manticore, and custom fuzzing setups for bug classification and exploit PoC generation.
